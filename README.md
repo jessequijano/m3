@@ -7,4 +7,3 @@ out. This makes it easy to toggle between different styles for version
 control testing.
 
 
-just a theory
